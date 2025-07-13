@@ -10,6 +10,9 @@
 
 ---
 
+[![🌟 Download Grow A Garden Script](https://img.shields.io/badge/🚀%20Download-GrowAGardenScript-brightgreen?style=for-the-badge&logo=roblox)]()
+
+---
 <h2 align="center">✨ Key Features</h2>
 
 <div align="center">
